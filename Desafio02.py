@@ -1,0 +1,1 @@
+'''Receba um número do usuário e mostre todos os números ímpares do intervalo de 1 até o número digitado'''
